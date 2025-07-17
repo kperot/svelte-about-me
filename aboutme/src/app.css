@@ -39,7 +39,7 @@ body {
 .full-header {
   width: 90%;
   height: 400px;
-  background-image: url("Tulips.jpg");
+  background-image: url("/Tulips.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

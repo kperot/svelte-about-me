@@ -32,7 +32,7 @@
   ];
 </script>
 
-<header class="full-header">
+<header class="full-header" style="background-image: url('/Tulip.jpg')">
   <h1>All About Me</h1>
 </header>
 

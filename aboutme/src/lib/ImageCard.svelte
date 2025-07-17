@@ -15,7 +15,7 @@
 <style>
   .card {
     background-color: var(--red);
-    border: 1px solid (var(--pink));
+    border: 1px solid var(--pink);
     border-radius: 10px;
     overflow: hidden;
     width: 300px;

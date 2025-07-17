@@ -6,25 +6,25 @@
   import ImageCard from "./lib/ImageCard.svelte";
   let cardData = [
     {
-      image: "Flower_Market.jpg",
+      image: "/Flower_Market.jpg",
       title: "Flowers",
       description:
         "I love flowers because they bring beauty and color to my life.",
     },
     {
-      image: "IMG_3281.jpg",
+      image: "/IMG_3281.jpg",
       title: "Botanical Gardens",
       description:
         "This is me in one of my favorite places, a botanical garden. I love being surrounded by nature and the beauty of plants.",
     },
     {
-      image: "Canal.png",
+      image: "/Canal.png",
       title: "Traveling",
       description:
         "I enjoy exploring new cultures and learning from the world around me.",
     },
     {
-      image: "Kayak.png",
+      image: "/Kayak.png",
       title: "Nature",
       description:
         "Growing up in Georgia, I have always loved being outdoors and surrounded by nature. It brings me peace and joy.",
